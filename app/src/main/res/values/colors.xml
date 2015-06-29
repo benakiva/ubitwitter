@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="divider">#8e8e8e</color>
+    <color name="active_tweet_btn">#55acee</color>
+    <color name="inactive_tweet_btn">#8055acee</color>
+    <color name="ubitwitter_blue">#ff1ca8f4</color>
+    <color name="ubitwitter_dark_blue">#0288D1</color>
+</resources>

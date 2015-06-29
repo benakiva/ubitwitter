@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UbiTwitter</string>
+
+    <string name="action_refresh">Refresh</string>
+
+    <string name="minutes">%dm</string>
+    <string name="day">%dd</string>
+    <string name="hours">%dh</string>
+    <string name="weeks">%dw</string>
+
+    <string name="send_tweet">Tweet</string>
+    <string name="title_activity_tweet_update">TweetUpdateActivity</string>
+
+    <string name="max_num_char">140</string>
+
+    <string name="post_success">Tweet posted successfully.</string>
+    <string name="post_failure">Failed to post Tweet status.</string>
+    <string name="no_connection">No network connection. Check your settings and try again.</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+
+    <string name="oauth_error">Failed to authenticate with Twitter</string>
+</resources>
